@@ -5,7 +5,6 @@
         <title>VBS Demo</title>
     </head>
     <body>
-        <h1>TIXAE Agents HTML Sample</h1>
         <p>This is basically your website here :)</p>
 
         
